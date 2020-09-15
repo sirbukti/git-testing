@@ -1,1 +1,3 @@
 Hari ini materi tentang git
+
+Ini adalah hari ke-2 pleatihan Guru Digital
